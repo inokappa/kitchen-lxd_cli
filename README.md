@@ -75,7 +75,6 @@ driver:
   ipv4: 10.0.3.99/24
   ip_gateway: 10.0.3.1
   verifier_path: "/opt/verifier"
-  stop_instead_of_destroy: true
   publish_image_name: "kitchen-base-ubuntu-1404"
   use_publish_image: true
   publish_image_before_destroy: true
